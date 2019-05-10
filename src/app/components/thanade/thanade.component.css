@@ -1,0 +1,14 @@
+.my-profile {
+    height: 100%;
+    background-color: lightgrey;
+}
+img {
+    margin-top:30px;
+    width: 150px;
+     height:150px%;
+  }
+  .set-name{
+      text-align: center;
+    /* font-weight: bold; */
+
+  }
