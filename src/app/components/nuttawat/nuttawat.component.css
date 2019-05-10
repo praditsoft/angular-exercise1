@@ -1,0 +1,14 @@
+.my-profile {
+  height: 100%;
+}
+div.photo {
+  height: 120px;
+  width: 120px;
+  margin-top: 50%;
+}
+p {
+  text-align: center;
+}
+img.scaled {
+  width: 100%;
+}
