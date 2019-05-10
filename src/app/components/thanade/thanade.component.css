@@ -10,8 +10,8 @@ img {
   }
   .set-name{
       text-align: center;
-    /* font-weight: bold; */
-
+    font-weight: bold;
+     font-size: 15px;
   }
 
   .box {
@@ -31,3 +31,6 @@ img {
   .rotate:hover {
     transition: all 1s ease-in-out;
   }
+
+ 
+  
