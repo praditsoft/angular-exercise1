@@ -10,6 +10,7 @@ export class SanonComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+      console.log();
   }
 
 }
